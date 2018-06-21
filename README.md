@@ -16,5 +16,5 @@ $dumper->run("collection name", true); // 'true' shows debug info
 
 
 ## Install mongo on centos:
-
+https://github.com/dimsamaras/php_mongo_collection_backup/blob/master/install_mongo_tools.md
 
